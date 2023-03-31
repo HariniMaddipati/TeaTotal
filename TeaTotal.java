@@ -45,4 +45,9 @@ class Product {
         return price;
     }
 }
+output:
+Tea totals by year:
+2021: 20.0
+2022: 15.0
+2023: 15.0
 
